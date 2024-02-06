@@ -1,0 +1,87 @@
+﻿@model List<Artist>
+
+<div class="card radius-15">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-9 row">
+                <div class="card-title">
+                    <h4>Artists</h4>
+                </div>
+            </div>
+            <div class="col-3 text-end">
+                <a href="/Management/Artist/Create" class="btn btn-success m-1 px-5">New Artist Add</a>
+            </div>
+        </div>
+        <hr>
+        <form method="get">
+            <div class="flex-grow-1 search-bar mb-3">
+                <div class="input-group">
+                    <button class="btn btn-search-back search-arrow-back" type="submit"><i class="bx bx-arrow-back"></i></button>
+                    <input type="text" class="form-control" id="ArtistName" name="ArtistName" value="@ViewBag.Search" placeholder="Artist Search">
+                    <button class="btn btn-search" type="submit"><i class="lni lni-search-alt"></i></button>
+                </div>
+            </div>
+        </form>
+        <div class="table-responsive">
+            <table class="table mb-0">
+                <thead>
+                    <tr>
+                        <th scope="col"></th>
+                        <th scope="col">Artist</th>
+                        <th scope="col">Name Surname</th>
+                        <th scope="col">Birth Date</th>
+                        <th scope="col">Created Date</th>
+                        <th scope="col">Update Date</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (int i = 1; i <= Model.Count(); i++)
+                    {
+                        <tr>
+                            <th scope="row">@i</th>
+                            <td><img class="rounded ml-3 shadow" src="@Model[i - 1].ArtistImageUrl" width="90" height="90" style="object-fit: cover" /></td>
+                            <td>@Model[i - 1].ArtistName</td>
+                            <td>@Model[i - 1].ArtistBirthDate.ToString("dd MMMM yyyy")</td>
+                            <td>@Model[i - 1].CreateDate.ToString("dd MMMM yyyy")</td>
+                            <td>@Model[i - 1].UpdateDate.ToString("dd MMMM yyyy")</td>
+                            <td class="text-end">
+                                <a class="btn btn-primary"
+                                   href="/Management/Artist/Details/@Model[i - 1].Id">Details</a>
+
+                                <a class="btn btn-warning"
+                                   href="/Management/Artist/Edit/@Model[i - 1].Id">Edit</a>
+
+                                <button class="btn btn-danger" onclick="deleteArtist(@Model[i - 1].Id);">Delete</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+@section ScriptSection {
+    <script>
+        function deleteArtist(Id) {
+            var result = confirm("Are you sure you want to delete?");
+            if (result) {
+                $.ajax({
+                    type: "POST",
+                    url: "/Management/Artist/DeleteByJs",
+                    data: { Id: Id },
+                    success: function (data) {
+                        alert(data);
+                        location.reload();
+                        window.location.href = '/Management/Artist/Index';
+                    },
+                    error: function (data) {
+                        alert("Error: " + data);
+                    }
+                });
+            } else {
+
+            }
+        }
+    </script>
+}

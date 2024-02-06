@@ -1,0 +1,581 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CafeActivity.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CafeActivity.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\ImageUpload\\ab6761610000e5eb6eb76d24f4d5055fbf2642c320240206091747.jpeg",
+      "PackagePath": "staticwebassets\\ImageUpload\\ab6761610000e5eb6eb76d24f4d5055fbf2642c320240206091747.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\Magnific-Popup-master.zip",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\barfiller-master.zip",
+      "PackagePath": "staticwebassets\\Source\\barfiller-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\bootstrap-4.2.1-dist.zip",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist.zip"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\jPlayer-2.9.2.zip",
+      "PackagePath": "staticwebassets\\Source\\jPlayer-2.9.2.zip"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\jQuery.countdown-master.zip",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\jquery.nicescroll-master.zip",
+      "PackagePath": "staticwebassets\\Source\\jquery.nicescroll-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\photo credits.txt",
+      "PackagePath": "staticwebassets\\Source\\photo credits.txt"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\barfiller.css",
+      "PackagePath": "staticwebassets\\css\\barfiller.css"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\nowfont.css",
+      "PackagePath": "staticwebassets\\css\\nowfont.css"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\rockville.css",
+      "PackagePath": "staticwebassets\\css\\rockville.css"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\Now-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Now-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Now-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\Now-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Now-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Thin.woff",
+      "PackagePath": "staticwebassets\\fonts\\Now-Thin.woff"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Rockville Solid.woff",
+      "PackagePath": "staticwebassets\\fonts\\Rockville Solid.woff"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\Background.jpg",
+      "PackagePath": "staticwebassets\\img\\Background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\about.png",
+      "PackagePath": "staticwebassets\\img\\about\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\ap-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\ap-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\ap-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\ap-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-5.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\ap-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-6.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\ap-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-7.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\ap-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\signature.png",
+      "PackagePath": "staticwebassets\\img\\about\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\br-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\br-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\br-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\br-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\br-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\br-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\br-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\br-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\blog-change.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-change.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\bs-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\bs-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\bs-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\large-item.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\large-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\countdown-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\countdown-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-1.jpg",
+      "PackagePath": "staticwebassets\\img\\discography\\disco-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-2.jpg",
+      "PackagePath": "staticwebassets\\img\\discography\\disco-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-3.jpg",
+      "PackagePath": "staticwebassets\\img\\discography\\disco-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-4.jpg",
+      "PackagePath": "staticwebassets\\img\\discography\\disco-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-5.jpg",
+      "PackagePath": "staticwebassets\\img\\discography\\disco-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-6.jpg",
+      "PackagePath": "staticwebassets\\img\\discography\\disco-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\link-1.jpg",
+      "PackagePath": "staticwebassets\\img\\discography\\link-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\link-2.jpg",
+      "PackagePath": "staticwebassets\\img\\discography\\link-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\events\\event-1.jpg",
+      "PackagePath": "staticwebassets\\img\\events\\event-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\events\\event-2.jpg",
+      "PackagePath": "staticwebassets\\img\\events\\event-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\events\\event-3.jpg",
+      "PackagePath": "staticwebassets\\img\\events\\event-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\footer-bg.png",
+      "PackagePath": "staticwebassets\\img\\footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\hero-bg.png",
+      "PackagePath": "staticwebassets\\img\\hero-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\pause.png",
+      "PackagePath": "staticwebassets\\img\\pause.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\play-default.png",
+      "PackagePath": "staticwebassets\\img\\play-default.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\play.png",
+      "PackagePath": "staticwebassets\\img\\play.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-1.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\as-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-2.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\as-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-3.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\as-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-icon-1.png",
+      "PackagePath": "staticwebassets\\img\\services\\as-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-icon-2.png",
+      "PackagePath": "staticwebassets\\img\\services\\as-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-icon-3.png",
+      "PackagePath": "staticwebassets\\img\\services\\as-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-1.png",
+      "PackagePath": "staticwebassets\\img\\services\\service-1.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-2.png",
+      "PackagePath": "staticwebassets\\img\\services\\service-2.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-3.png",
+      "PackagePath": "staticwebassets\\img\\services\\service-3.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-4.png",
+      "PackagePath": "staticwebassets\\img\\services\\service-4.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-left.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\service-left.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\skill-video.jpg",
+      "PackagePath": "staticwebassets\\img\\skill-video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\tours\\tour-1.jpg",
+      "PackagePath": "staticwebassets\\img\\tours\\tour-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\tours\\tour-2.jpg",
+      "PackagePath": "staticwebassets\\img\\tours\\tour-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\tours\\tour-3.jpg",
+      "PackagePath": "staticwebassets\\img\\tours\\tour-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\track-right.jpg",
+      "PackagePath": "staticwebassets\\img\\track-right.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\large-item.jpg",
+      "PackagePath": "staticwebassets\\img\\videos\\large-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\videos-1.jpg",
+      "PackagePath": "staticwebassets\\img\\videos\\videos-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\videos-2.jpg",
+      "PackagePath": "staticwebassets\\img\\videos\\videos-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\videos-3.jpg",
+      "PackagePath": "staticwebassets\\img\\videos\\videos-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\videos-4.jpg",
+      "PackagePath": "staticwebassets\\img\\videos\\videos-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\volume.png",
+      "PackagePath": "staticwebassets\\img\\volume.png"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\youtube\\youtube-1.jpg",
+      "PackagePath": "staticwebassets\\img\\youtube\\youtube-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\youtube\\youtube-2.jpg",
+      "PackagePath": "staticwebassets\\img\\youtube\\youtube-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\youtube\\youtube-3.jpg",
+      "PackagePath": "staticwebassets\\img\\youtube\\youtube-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jplayerInit.js",
+      "PackagePath": "staticwebassets\\js\\jplayerInit.js"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.barfiller.js",
+      "PackagePath": "staticwebassets\\js\\jquery.barfiller.js"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.jplayer.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.jplayer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\1.mp3",
+      "PackagePath": "staticwebassets\\music-files\\1.mp3"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\2.mp3",
+      "PackagePath": "staticwebassets\\music-files\\2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\3.mp3",
+      "PackagePath": "staticwebassets\\music-files\\3.mp3"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\4.mp3",
+      "PackagePath": "staticwebassets\\music-files\\4.mp3"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\5.mp3",
+      "PackagePath": "staticwebassets\\music-files\\5.mp3"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\6.mp3",
+      "PackagePath": "staticwebassets\\music-files\\6.mp3"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_about.scss",
+      "PackagePath": "staticwebassets\\sass\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\sass\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_discography.scss",
+      "PackagePath": "staticwebassets\\sass\\_discography.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_feature.scss",
+      "PackagePath": "staticwebassets\\sass\\_feature.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\sass\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_services.scss",
+      "PackagePath": "staticwebassets\\sass\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_tours.scss",
+      "PackagePath": "staticwebassets\\sass\\_tours.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_videos.scss",
+      "PackagePath": "staticwebassets\\sass\\_videos.scss"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CafeActivity.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CafeActivity.props",
+      "PackagePath": "build\\CafeActivity.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CafeActivity.props",
+      "PackagePath": "buildMultiTargeting\\CafeActivity.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CafeActivity.props",
+      "PackagePath": "buildTransitive\\CafeActivity.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
