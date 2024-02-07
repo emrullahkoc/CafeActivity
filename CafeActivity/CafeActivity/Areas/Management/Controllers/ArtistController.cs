@@ -97,6 +97,7 @@ namespace CafeActivity.Areas.Management.Controllers
                 editmodel.ArtistName = model.ArtistName.ToUpper(); ;
                 editmodel.ArtistDescription = model.ArtistDescription;
                 editmodel.ArtistBirthDate = model.ArtistBirthDate;
+                editmodel.UpdateDate= DateTime.Now;
                 editmodel.ArtistStatus = true;
                 await db.SaveChangesAsync();
                 return Redirect("/Management/Artist/Index");
@@ -105,7 +106,7 @@ namespace CafeActivity.Areas.Management.Controllers
         }
         public IActionResult Details(int id)
         {
-            Artist? model = db.Artists.Include(a => a.Activities.Where(a => a.ActivityStatus == true)).ThenInclude(b => b.Category).FirstOrDefault(a => a.Id == id); ;
+            Artist? model = db.Artists.Include(a => a.Activities.Where(a => a.ActivityStatus == true)).ThenInclude(b => b.Category).FirstOrDefault(a => a.Id == id);
             if (model == null)
             {
                 return Redirect("/Management/Author/Index");

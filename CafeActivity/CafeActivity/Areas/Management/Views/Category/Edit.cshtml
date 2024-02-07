@@ -1,0 +1,52 @@
+﻿@model Category
+<h6 class="mb-0 text-uppercase">@Model.CategoryName EDİT</h6>
+<hr />
+<div class="card">
+    <div class="card-body">
+        <div class="p-4 border rounded">
+            <form class="row g-3 needs-validation" method="post" enctype="multipart/form-data">
+                <div class="col-md-4">
+                    <label class="form-label">Category Name</label>
+                    <input type="text" class="form-control" asp-for="CategoryName" placeholder="Category Name">
+                </div>
+                <div class="col-md-12">
+                    <label class="form-label">Category About</label>
+                    <textarea class="ckeditor" type="text" placeholder="Artist About" asp-for="CategoryDescription" rows="4"></textarea>
+                </div>
+                <div class="col-12">
+                    <label class="form-label">Category Image</label>
+                    <input class="form-control mb-3" type="file" name="img" id="img" accept="image/*" />
+                </div>
+                <div class="col-12">
+                    <button class="btn btn-success m-1 px-5" type="submit">Save</button>
+                    <button class="btn btn-danger m-1 px-5" onclick="deleteCategory(@Model.Id);" type="submit">Delete</button>
+                    <a href="/Management/Category/Details/@Model.Id" class="btn btn-secondary m-1 px-5">Cansel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@section ScriptSection {
+    <script>
+        function deleteCategory(Id) {
+            var result = confirm("Are you sure you want to delete?");
+            if (result) {
+                $.ajax({
+                    type: "POST",
+                    url: "/Management/Category/DeleteByJs",
+                    data: { Id: Id },
+                    success: function (data) {
+                        alert(data);
+                        location.reload();
+                        window.location.href = '/Management/Category/Index';
+                    },
+                    error: function (data) {
+                        alert("Error: " + data);
+                    }
+                });
+            } else {
+
+            }
+        }
+    </script>
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qKhYCdUMGp51/icJ0twxb/VRqhSqZW5CAVkjzHBuCyU=",
+  "Hash": "rE+rKEw8HvL2CRasZtLGP1JDThhMQnhIdnTSJqRQW9A=",
   "Source": "CafeActivity",
   "BasePath": "_content/CafeActivity",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "CafeActivity\\wwwroot",
       "Source": "CafeActivity",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "Pattern": "**"
     }
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "C:\\Users\\emrullahkoc\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CafeActivity.styles.css",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CafeActivity.styles.css",
       "SourceId": "CafeActivity",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "CafeActivity.styles.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CafeActivity.styles.css"
+      "OriginalItemSpec": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CafeActivity.styles.css"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CafeActivity.bundle.scp.css",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CafeActivity.bundle.scp.css",
       "SourceId": "CafeActivity",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "CafeActivity.bundle.scp.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CafeActivity.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CafeActivity.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\barfiller.css",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\css\\barfiller.css",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "css/barfiller.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\barfiller.css"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\magnific-popup.css",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\css\\magnific-popup.css",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "css/magnific-popup.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\nowfont.css",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\css\\nowfont.css",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "css/nowfont.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nowfont.css"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\css\\owl.carousel.min.css",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\rockville.css",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\css\\rockville.css",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "css/rockville.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\rockville.css"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\slicknav.min.css",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\css\\slicknav.min.css",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "css/slicknav.min.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slicknav.min.css"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\css\\style.css",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Black.woff",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Black.woff",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/Now-Black.woff",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Now-Black.woff"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Bold.woff",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Bold.woff",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/Now-Bold.woff",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Now-Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Light.woff",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Light.woff",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/Now-Light.woff",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Now-Light.woff"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Medium.woff",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Medium.woff",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/Now-Medium.woff",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Now-Medium.woff"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Regular.woff",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Regular.woff",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/Now-Regular.woff",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Now-Regular.woff"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Thin.woff",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Now-Thin.woff",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/Now-Thin.woff",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Now-Thin.woff"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Rockville Solid.woff",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\fonts\\Rockville Solid.woff",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "fonts/Rockville Solid.woff",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Rockville Solid.woff"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\ImageUpload\\ab6761610000e5eb6eb76d24f4d5055fbf2642c320240206091747.jpeg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\ImageUpload\\ab6761610000e5eb6eb76d24f4d5055fbf2642c320240206091747.jpeg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "ImageUpload/ab6761610000e5eb6eb76d24f4d5055fbf2642c320240206091747.jpeg",
       "AssetKind": "All",
@@ -530,10 +530,86 @@
       "OriginalItemSpec": "wwwroot\\ImageUpload\\ab6761610000e5eb6eb76d24f4d5055fbf2642c320240206091747.jpeg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\about.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\ImageUpload\\jazz20240207121116.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "BasePath": "_content/CafeActivity",
+      "RelativePath": "ImageUpload/jazz20240207121116.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImageUpload\\jazz20240207121116.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\ImageUpload\\pop20240207121453.jpg",
+      "SourceId": "CafeActivity",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "BasePath": "_content/CafeActivity",
+      "RelativePath": "ImageUpload/pop20240207121453.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImageUpload\\pop20240207121453.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\ImageUpload\\RAP20240207121311.jpg",
+      "SourceId": "CafeActivity",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "BasePath": "_content/CafeActivity",
+      "RelativePath": "ImageUpload/RAP20240207121311.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImageUpload\\RAP20240207121311.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\ImageUpload\\Tarkan20240207123701.jpg",
+      "SourceId": "CafeActivity",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "BasePath": "_content/CafeActivity",
+      "RelativePath": "ImageUpload/Tarkan20240207123701.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImageUpload\\Tarkan20240207123701.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\about.png",
+      "SourceId": "CafeActivity",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/about/about.png",
       "AssetKind": "All",
@@ -549,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\about.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-1.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-1.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/about/ap-1.jpg",
       "AssetKind": "All",
@@ -568,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\ap-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-2.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-2.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/about/ap-2.jpg",
       "AssetKind": "All",
@@ -587,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\ap-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-3.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-3.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/about/ap-3.jpg",
       "AssetKind": "All",
@@ -606,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\ap-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-4.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-4.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/about/ap-4.jpg",
       "AssetKind": "All",
@@ -625,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\ap-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-5.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-5.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/about/ap-5.jpg",
       "AssetKind": "All",
@@ -644,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\ap-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-6.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-6.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/about/ap-6.jpg",
       "AssetKind": "All",
@@ -663,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\ap-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-7.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\ap-7.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/about/ap-7.jpg",
       "AssetKind": "All",
@@ -682,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\ap-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\signature.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\about\\signature.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/about/signature.png",
       "AssetKind": "All",
@@ -701,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about\\signature.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\Background.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\Background.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/Background.jpg",
       "AssetKind": "All",
@@ -720,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Background.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-1.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-1.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/blog-1.jpg",
       "AssetKind": "All",
@@ -739,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-2.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-2.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/blog-2.jpg",
       "AssetKind": "All",
@@ -758,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-3.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-3.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/blog-3.jpg",
       "AssetKind": "All",
@@ -777,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-4.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-4.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/blog-4.jpg",
       "AssetKind": "All",
@@ -796,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-5.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-5.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/blog-5.jpg",
       "AssetKind": "All",
@@ -815,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-6.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\blog-6.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/blog-6.jpg",
       "AssetKind": "All",
@@ -834,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\br-1.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\br-1.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/br-1.jpg",
       "AssetKind": "All",
@@ -853,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\br-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\br-2.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\br-2.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/br-2.jpg",
       "AssetKind": "All",
@@ -872,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\br-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\br-3.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\br-3.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/br-3.jpg",
       "AssetKind": "All",
@@ -891,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\br-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\br-4.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\br-4.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/br-4.jpg",
       "AssetKind": "All",
@@ -910,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\br-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\blog-change.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\blog-change.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/details/blog-change.jpg",
       "AssetKind": "All",
@@ -929,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\blog-change.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\bs-1.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\bs-1.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/details/bs-1.jpg",
       "AssetKind": "All",
@@ -948,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\bs-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\bs-2.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\bs-2.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/details/bs-2.jpg",
       "AssetKind": "All",
@@ -967,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\bs-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\bs-3.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\bs-3.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/details/bs-3.jpg",
       "AssetKind": "All",
@@ -986,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\bs-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\details-pic.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\details\\details-pic.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/details/details-pic.jpg",
       "AssetKind": "All",
@@ -1005,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\details-pic.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\large-item.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\blog\\large-item.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/blog/large-item.jpg",
       "AssetKind": "All",
@@ -1024,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\large-item.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\countdown-bg.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\countdown-bg.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/countdown-bg.jpg",
       "AssetKind": "All",
@@ -1043,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\countdown-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-1.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-1.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/discography/disco-1.jpg",
       "AssetKind": "All",
@@ -1062,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\img\\discography\\disco-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-2.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-2.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/discography/disco-2.jpg",
       "AssetKind": "All",
@@ -1081,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\img\\discography\\disco-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-3.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-3.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/discography/disco-3.jpg",
       "AssetKind": "All",
@@ -1100,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\discography\\disco-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-4.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-4.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/discography/disco-4.jpg",
       "AssetKind": "All",
@@ -1119,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\img\\discography\\disco-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-5.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-5.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/discography/disco-5.jpg",
       "AssetKind": "All",
@@ -1138,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\img\\discography\\disco-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-6.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\disco-6.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/discography/disco-6.jpg",
       "AssetKind": "All",
@@ -1157,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\img\\discography\\disco-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\link-1.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\link-1.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/discography/link-1.jpg",
       "AssetKind": "All",
@@ -1176,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\img\\discography\\link-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\link-2.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\discography\\link-2.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/discography/link-2.jpg",
       "AssetKind": "All",
@@ -1195,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\img\\discography\\link-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\events\\event-1.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\events\\event-1.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/events/event-1.jpg",
       "AssetKind": "All",
@@ -1214,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\img\\events\\event-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\events\\event-2.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\events\\event-2.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/events/event-2.jpg",
       "AssetKind": "All",
@@ -1233,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\events\\event-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\events\\event-3.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\events\\event-3.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/events/event-3.jpg",
       "AssetKind": "All",
@@ -1252,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\img\\events\\event-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\footer-bg.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\footer-bg.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/footer-bg.png",
       "AssetKind": "All",
@@ -1271,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\img\\footer-bg.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\hero-bg.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\hero-bg.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/hero-bg.png",
       "AssetKind": "All",
@@ -1290,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hero-bg.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\logo.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -1309,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\pause.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\pause.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/pause.png",
       "AssetKind": "All",
@@ -1328,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pause.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\play.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\play.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/play.png",
       "AssetKind": "All",
@@ -1347,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\img\\play.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\play-default.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\play-default.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/play-default.png",
       "AssetKind": "All",
@@ -1366,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\play-default.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-1.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-1.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/services/as-1.jpg",
       "AssetKind": "All",
@@ -1385,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services\\as-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-2.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-2.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/services/as-2.jpg",
       "AssetKind": "All",
@@ -1404,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services\\as-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-3.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-3.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/services/as-3.jpg",
       "AssetKind": "All",
@@ -1423,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services\\as-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-icon-1.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-icon-1.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/services/as-icon-1.png",
       "AssetKind": "All",
@@ -1442,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services\\as-icon-1.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-icon-2.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-icon-2.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/services/as-icon-2.png",
       "AssetKind": "All",
@@ -1461,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services\\as-icon-2.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-icon-3.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\as-icon-3.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/services/as-icon-3.png",
       "AssetKind": "All",
@@ -1480,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services\\as-icon-3.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-1.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-1.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/services/service-1.png",
       "AssetKind": "All",
@@ -1499,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services\\service-1.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-2.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-2.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/services/service-2.png",
       "AssetKind": "All",
@@ -1518,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services\\service-2.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-3.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-3.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/services/service-3.png",
       "AssetKind": "All",
@@ -1537,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services\\service-3.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-4.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-4.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/services/service-4.png",
       "AssetKind": "All",
@@ -1556,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services\\service-4.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-left.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\services\\service-left.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/services/service-left.jpg",
       "AssetKind": "All",
@@ -1575,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services\\service-left.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\skill-video.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\skill-video.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/skill-video.jpg",
       "AssetKind": "All",
@@ -1594,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\img\\skill-video.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\tours\\tour-1.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\tours\\tour-1.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/tours/tour-1.jpg",
       "AssetKind": "All",
@@ -1613,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\img\\tours\\tour-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\tours\\tour-2.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\tours\\tour-2.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/tours/tour-2.jpg",
       "AssetKind": "All",
@@ -1632,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\img\\tours\\tour-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\tours\\tour-3.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\tours\\tour-3.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/tours/tour-3.jpg",
       "AssetKind": "All",
@@ -1651,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\img\\tours\\tour-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\track-right.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\track-right.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/track-right.jpg",
       "AssetKind": "All",
@@ -1670,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\img\\track-right.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\large-item.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\large-item.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/videos/large-item.jpg",
       "AssetKind": "All",
@@ -1689,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\videos\\large-item.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\videos-1.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\videos-1.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/videos/videos-1.jpg",
       "AssetKind": "All",
@@ -1708,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\img\\videos\\videos-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\videos-2.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\videos-2.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/videos/videos-2.jpg",
       "AssetKind": "All",
@@ -1727,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\img\\videos\\videos-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\videos-3.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\videos-3.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/videos/videos-3.jpg",
       "AssetKind": "All",
@@ -1746,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\img\\videos\\videos-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\videos-4.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\videos\\videos-4.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/videos/videos-4.jpg",
       "AssetKind": "All",
@@ -1765,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\img\\videos\\videos-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\volume.png",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\volume.png",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/volume.png",
       "AssetKind": "All",
@@ -1784,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\img\\volume.png"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\youtube\\youtube-1.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\youtube\\youtube-1.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/youtube/youtube-1.jpg",
       "AssetKind": "All",
@@ -1803,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\img\\youtube\\youtube-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\youtube\\youtube-2.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\youtube\\youtube-2.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/youtube/youtube-2.jpg",
       "AssetKind": "All",
@@ -1822,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\img\\youtube\\youtube-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\img\\youtube\\youtube-3.jpg",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\img\\youtube\\youtube-3.jpg",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "img/youtube/youtube-3.jpg",
       "AssetKind": "All",
@@ -1841,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\img\\youtube\\youtube-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1860,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jplayerInit.js",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\js\\jplayerInit.js",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "js/jplayerInit.js",
       "AssetKind": "All",
@@ -1879,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jplayerInit.js"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.barfiller.js",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.barfiller.js",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "js/jquery.barfiller.js",
       "AssetKind": "All",
@@ -1898,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.barfiller.js"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.countdown.min.js",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.countdown.min.js",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "js/jquery.countdown.min.js",
       "AssetKind": "All",
@@ -1917,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.countdown.min.js"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.jplayer.min.js",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.jplayer.min.js",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "js/jquery.jplayer.min.js",
       "AssetKind": "All",
@@ -1936,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.jplayer.min.js"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -1955,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.nicescroll.min.js",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.nicescroll.min.js",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "js/jquery.nicescroll.min.js",
       "AssetKind": "All",
@@ -1974,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.nicescroll.min.js"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.slicknav.js",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery.slicknav.js",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "js/jquery.slicknav.js",
       "AssetKind": "All",
@@ -1993,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.slicknav.js"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\js\\jquery-3.3.1.min.js",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -2012,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\js\\main.js",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -2031,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\js\\owl.carousel.min.js",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -2050,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\1.mp3",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\1.mp3",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "music-files/1.mp3",
       "AssetKind": "All",
@@ -2069,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\music-files\\1.mp3"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\2.mp3",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\2.mp3",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "music-files/2.mp3",
       "AssetKind": "All",
@@ -2088,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\music-files\\2.mp3"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\3.mp3",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\3.mp3",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "music-files/3.mp3",
       "AssetKind": "All",
@@ -2107,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\music-files\\3.mp3"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\4.mp3",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\4.mp3",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "music-files/4.mp3",
       "AssetKind": "All",
@@ -2126,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\music-files\\4.mp3"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\5.mp3",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\5.mp3",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "music-files/5.mp3",
       "AssetKind": "All",
@@ -2145,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\music-files\\5.mp3"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\6.mp3",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\music-files\\6.mp3",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "music-files/6.mp3",
       "AssetKind": "All",
@@ -2164,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\music-files\\6.mp3"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_about.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_about.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_about.scss",
       "AssetKind": "All",
@@ -2183,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_about.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_base.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_base.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_base.scss",
       "AssetKind": "All",
@@ -2202,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_base.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_blog.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_blog.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_blog.scss",
       "AssetKind": "All",
@@ -2221,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_blog.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_blog-details.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_blog-details.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_blog-details.scss",
       "AssetKind": "All",
@@ -2240,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_blog-details.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_blog-sidebar.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_blog-sidebar.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_blog-sidebar.scss",
       "AssetKind": "All",
@@ -2259,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_blog-sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_breadcrumb.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_breadcrumb.scss",
       "AssetKind": "All",
@@ -2278,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_contact.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_contact.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_contact.scss",
       "AssetKind": "All",
@@ -2297,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_contact.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_discography.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_discography.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_discography.scss",
       "AssetKind": "All",
@@ -2316,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_discography.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_feature.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_feature.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_feature.scss",
       "AssetKind": "All",
@@ -2335,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_feature.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_footer.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_footer.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_footer.scss",
       "AssetKind": "All",
@@ -2354,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_header.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_header.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_header.scss",
       "AssetKind": "All",
@@ -2373,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_header.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_hero.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_hero.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_hero.scss",
       "AssetKind": "All",
@@ -2392,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_hero.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_home-page.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_home-page.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_home-page.scss",
       "AssetKind": "All",
@@ -2411,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_home-page.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_mixins.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_mixins.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_mixins.scss",
       "AssetKind": "All",
@@ -2430,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_responsive.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_responsive.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_responsive.scss",
       "AssetKind": "All",
@@ -2449,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_responsive.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_services.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_services.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_services.scss",
       "AssetKind": "All",
@@ -2468,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_services.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_tours.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_tours.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_tours.scss",
       "AssetKind": "All",
@@ -2487,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_tours.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_variable.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_variable.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_variable.scss",
       "AssetKind": "All",
@@ -2506,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_variable.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_videos.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\_videos.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/_videos.scss",
       "AssetKind": "All",
@@ -2525,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\_videos.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\sass\\style.scss",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\sass\\style.scss",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "sass/style.scss",
       "AssetKind": "All",
@@ -2544,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\barfiller-master.zip",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\Source\\barfiller-master.zip",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "Source/barfiller-master.zip",
       "AssetKind": "All",
@@ -2563,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\Source\\barfiller-master.zip"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\bootstrap-4.2.1-dist.zip",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\Source\\bootstrap-4.2.1-dist.zip",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "Source/bootstrap-4.2.1-dist.zip",
       "AssetKind": "All",
@@ -2582,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\Source\\bootstrap-4.2.1-dist.zip"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\font-awesome-4.7.0.zip",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\Source\\font-awesome-4.7.0.zip",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "Source/font-awesome-4.7.0.zip",
       "AssetKind": "All",
@@ -2601,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\Source\\font-awesome-4.7.0.zip"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\jPlayer-2.9.2.zip",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\Source\\jPlayer-2.9.2.zip",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "Source/jPlayer-2.9.2.zip",
       "AssetKind": "All",
@@ -2620,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\Source\\jPlayer-2.9.2.zip"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\jQuery.countdown-master.zip",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\Source\\jQuery.countdown-master.zip",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "Source/jQuery.countdown-master.zip",
       "AssetKind": "All",
@@ -2639,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\Source\\jQuery.countdown-master.zip"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\jquery.nicescroll-master.zip",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\Source\\jquery.nicescroll-master.zip",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "Source/jquery.nicescroll-master.zip",
       "AssetKind": "All",
@@ -2658,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\Source\\jquery.nicescroll-master.zip"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\Magnific-Popup-master.zip",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\Source\\Magnific-Popup-master.zip",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "Source/Magnific-Popup-master.zip",
       "AssetKind": "All",
@@ -2677,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\Source\\Magnific-Popup-master.zip"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "Source/OwlCarousel2-2.3.4.zip",
       "AssetKind": "All",
@@ -2696,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\Source\\OwlCarousel2-2.3.4.zip"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\photo credits.txt",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\Source\\photo credits.txt",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "Source/photo credits.txt",
       "AssetKind": "All",
@@ -2715,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\Source\\photo credits.txt"
     },
     {
-      "Identity": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\Source\\SlickNav-master.zip",
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\Source\\SlickNav-master.zip",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
       "BasePath": "_content/CafeActivity",
       "RelativePath": "Source/SlickNav-master.zip",
       "AssetKind": "All",

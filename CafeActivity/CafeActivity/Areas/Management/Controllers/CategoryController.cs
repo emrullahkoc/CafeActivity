@@ -5,6 +5,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CafeActivity.Areas.Management.Controllers
 {
+    [Area("Management")]
+
     public class CategoryController : Controller
     {
         CafeActivityContext db = new CafeActivityContext();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GzNn4viwQ64SBp33J/O6+l2zReAK6tVZ/cP1+INqiBdbxIVMp1C4DmNO4lW9oXSKOfB59OaxCGSDy6FrOZh4xQ==",
+  "dgSpecHash": "38unRuNVN2olBkIDjx4z6zxlJNPBQaOzii6aLJYsUNJNHaPLFtfKt+K1lgicyIRXUpzaspyNBnMZcvhJGm/Hrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emrullahkoc\\Desktop\\YAZILIM\\CafeActivity\\CafeActivity\\CafeActivity.csproj",
+  "projectFilePath": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\CafeActivity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emrullahkoc\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\emrullahkoc\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
