@@ -1,0 +1,89 @@
+﻿@model List<Activity>
+
+<div class="card radius-15">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-9 row">
+                <div class="card-title">
+                    <h4>Activities</h4>
+                </div>
+            </div>
+            <div class="col-3 text-end">
+                <a href="/Management/Activity/Create" class="btn btn-success m-1 px-5">New Activity Add</a>
+            </div>
+        </div>
+        <hr>
+        <form method="get">
+            <div class="flex-grow-1 search-bar mb-3">
+                <div class="input-group">
+                    <button class="btn btn-search-back search-arrow-back" type="submit"><i class="bx bx-arrow-back"></i></button>
+                    <input type="text" class="form-control" id="ActivityName" name="ActivityName" value="@ViewBag.Search" placeholder="Activity Search">
+                    <button class="btn btn-search" type="submit"><i class="lni lni-search-alt"></i></button>
+                </div>
+            </div>
+        </form>
+        <div class="table-responsive">
+            <table class="table mb-0">
+                <thead>
+                    <tr>
+                        <th scope="col"></th>
+                        <th scope="col">Activity</th>
+                        <th scope="col">Activity Name</th>
+                        <th scope="col">Category</th>
+                        <th scope="col">Artist</th>
+                        <th scope="col">Activity Date</th>
+                        <th scope="col">Activity Price</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (int i = 1; i <= Model.Count(); i++)
+                    {
+                        <tr>
+                            <th scope="row">@i</th>
+                            <td><img class="rounded ml-3 shadow" src="@Model[i - 1].ActivityImageUrl" width="90" height="90" style="object-fit: cover" /></td>
+                            <td>@Model[i - 1].ActivityName</td>
+                            <td>@Model[i - 1].Category?.CategoryName</td>
+                            <td>@Model[i - 1].Artist?.ArtistName</td>
+                            <td>@Model[i - 1].ActivityDate.ToString("dd MMMM yyyy")</td>
+                            <td>@Model[i - 1].ActivityPrice.ToString("C")</td>
+                            <td class="text-end">
+                                <a class="btn btn-primary"
+                                   href="/Management/Activity/Details/@Model[i - 1].Id">Details</a>
+
+                                <a class="btn btn-warning"
+                                   href="/Management/Activity/Edit/@Model[i - 1].Id">Edit</a>
+
+                                <button class="btn btn-danger" onclick="deleteActivity(@Model[i - 1].Id);">Delete</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+@section ScriptSection {
+    <script>
+        function deleteActivity(Id) {
+            var result = confirm("Are you sure you want to delete?");
+            if (result) {
+                $.ajax({
+                    type: "POST",
+                    url: "/Management/Activity/DeleteByJs",
+                    data: { Id: Id },
+                    success: function (data) {
+                        alert(data);
+                        location.reload();
+                        window.location.href = '/Management/Activity/Index';
+                    },
+                    error: function (data) {
+                        alert("Error: " + data);
+                    }
+                });
+            } else {
+
+            }
+        }
+    </script>
+}

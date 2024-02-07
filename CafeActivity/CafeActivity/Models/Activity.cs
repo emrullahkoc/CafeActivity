@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 using System.Net.Sockets;
+using static System.Reflection.Metadata.BlobBuilder;
 
 namespace CafeActivity.Models
 {
@@ -19,11 +20,11 @@ namespace CafeActivity.Models
         public string ActivityName { get; set; }
         public string ActivityDescription { get; set; }
         public DateTime ActivityDate { get; set; }
-        public int ActivityPrice { get; set; }
+        public decimal ActivityPrice { get; set; }
         public string? ActivityImageUrl { get; set; }
         public DateTime CreateDate { get; set; }
         public DateTime UpdateDate { get; set; }
         public bool ActivityStatus { get; set; }
-        public ICollection<Ticket> Tickets { get; set; }
+        public virtual ICollection<Ticket> Tickets { get; set; }
     }
 }

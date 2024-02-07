@@ -14,6 +14,6 @@ namespace CafeActivity.Models
         public string CategoryDescription { get; set; }
         public string? CategoryImageUrl { get; set; }
         public bool CategoryStatus { get; set; }
-        public ICollection<Activity> Activities { get; set; }
+        public virtual ICollection<Activity> Activities { get; set; }
     }
 }

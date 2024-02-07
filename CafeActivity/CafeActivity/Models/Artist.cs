@@ -18,7 +18,7 @@ namespace CafeActivity.Models
         public DateTime CreateDate { get; set; }
         public DateTime UpdateDate { get; set; }
         public bool ArtistStatus { get; set; }
-        public ICollection<Activity> Activities { get; set; }
+        public virtual ICollection<Activity> Activities { get; set; }
 
     }
 }

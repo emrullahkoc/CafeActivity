@@ -67,8 +67,8 @@ namespace CafeActivity.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("ActivityPrice")
-                        .HasColumnType("int");
+                    b.Property<decimal>("ActivityPrice")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<bool>("ActivityStatus")
                         .HasColumnType("bit");

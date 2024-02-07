@@ -26,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\emrullahkoc\Documents\GitHub\CafeActivity\CafeActivity\CafeActivity
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/emrullahkoc/Documents/GitHub/CafeActivity/CafeActivity/CafeActivity/Areas/Management/Views/Activity/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xBY3Rpdml0eVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emrullahkoc/Documents/GitHub/CafeActivity/CafeActivity/CafeActivity/Areas/Management/Views/Activity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xBY3Rpdml0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/emrullahkoc/Documents/GitHub/CafeActivity/CafeActivity/CafeActivity/Areas/Management/Views/Artist/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xBcnRpc3RcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
