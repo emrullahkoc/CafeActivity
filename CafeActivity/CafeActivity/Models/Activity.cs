@@ -7,6 +7,11 @@ namespace CafeActivity.Models
 {
     public class Activity
     {
+
+        public Activity()
+        {
+            Tickets = new HashSet<Ticket>();
+        }
         [Key]
         public int Id { get; set; }
         [Required]

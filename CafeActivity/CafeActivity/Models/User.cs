@@ -4,6 +4,10 @@ namespace CafeActivity.Models
 {
     public class User
     {
+        public User()
+        {
+            Tickets = new HashSet<Ticket>();
+        }
         [Key]
         public int Id { get; set; }
         public string UserFullName { get; set; }
@@ -12,6 +16,6 @@ namespace CafeActivity.Models
         public string? UserImageUrl { get; set; }
         public DateTime CreatedDate { get; set; }
         public bool UserStatus { get; set; }
-        public ICollection<Ticket> Tickets { get; set; }
+        public virtual ICollection<Ticket> Tickets { get; set; }
     }
 }
