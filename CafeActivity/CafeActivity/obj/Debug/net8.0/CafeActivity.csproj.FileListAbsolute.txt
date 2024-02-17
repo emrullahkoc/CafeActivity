@@ -519,9 +519,9 @@ C:\Users\emrullahkoc\Documents\GitHub\CafeActivity\CafeActivity\CafeActivity\obj
 C:\Users\emrullahkoc\Documents\GitHub\CafeActivity\CafeActivity\CafeActivity\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\emrullahkoc\Documents\GitHub\CafeActivity\CafeActivity\CafeActivity\obj\Debug\net8.0\scopedcss\bundle\CafeActivity.styles.css
 C:\Users\emrullahkoc\Documents\GitHub\CafeActivity\CafeActivity\CafeActivity\obj\Debug\net8.0\scopedcss\projectbundle\CafeActivity.bundle.scp.css
-C:\Users\emrullahkoc\Documents\GitHub\CafeActivity\CafeActivity\CafeActivity\obj\Debug\net8.0\CafeActivity.csproj.CopyComplete
 C:\Users\emrullahkoc\Documents\GitHub\CafeActivity\CafeActivity\CafeActivity\obj\Debug\net8.0\CafeActivity.dll
 C:\Users\emrullahkoc\Documents\GitHub\CafeActivity\CafeActivity\CafeActivity\obj\Debug\net8.0\refint\CafeActivity.dll
 C:\Users\emrullahkoc\Documents\GitHub\CafeActivity\CafeActivity\CafeActivity\obj\Debug\net8.0\CafeActivity.pdb
 C:\Users\emrullahkoc\Documents\GitHub\CafeActivity\CafeActivity\CafeActivity\obj\Debug\net8.0\CafeActivity.genruntimeconfig.cache
 C:\Users\emrullahkoc\Documents\GitHub\CafeActivity\CafeActivity\CafeActivity\obj\Debug\net8.0\ref\CafeActivity.dll
+C:\Users\emrullahkoc\Documents\GitHub\CafeActivity\CafeActivity\CafeActivity\obj\Debug\net8.0\CafeActi.FD6789D8.Up2Date

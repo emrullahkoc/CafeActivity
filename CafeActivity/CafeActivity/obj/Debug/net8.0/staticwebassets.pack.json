@@ -577,6 +577,14 @@
       "PackagePath": "staticwebassets\\sass\\style.scss"
     },
     {
+      "Id": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CafeActivity.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

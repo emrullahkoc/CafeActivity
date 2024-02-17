@@ -1,5 +1,6 @@
 ﻿using CafeActivity.Models;
 using CafeActivity.Utils;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -7,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 namespace CafeActivity.Areas.Management.Controllers
 {
     [Area("Management")]
-
+    [Authorize("Admin")]
     public class ActivityController : Controller
     {
         CafeActivityContext db = new CafeActivityContext();

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rE+rKEw8HvL2CRasZtLGP1JDThhMQnhIdnTSJqRQW9A=",
+  "Hash": "9PjJMIBjMqfVAJMIwtag7MM0VIoUifh7doKAvsFSszc=",
   "Source": "CafeActivity",
   "BasePath": "_content/CafeActivity",
   "Mode": "Default",
@@ -2620,6 +2620,25 @@
       "OriginalItemSpec": "wwwroot\\sass\\style.scss"
     },
     {
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\script.js",
+      "SourceId": "CafeActivity",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "BasePath": "_content/CafeActivity",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
       "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\Source\\barfiller-master.zip",
       "SourceId": "CafeActivity",
       "SourceType": "Discovered",
@@ -2808,6 +2827,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Identity": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\style.css",
+      "SourceId": "CafeActivity",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\wwwroot\\",
+      "BasePath": "_content/CafeActivity",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
     }
   ]
 }

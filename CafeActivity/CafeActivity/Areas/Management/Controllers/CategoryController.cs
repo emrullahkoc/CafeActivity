@@ -1,11 +1,13 @@
 ﻿using CafeActivity.Models;
 using CafeActivity.Utils;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace CafeActivity.Areas.Management.Controllers
 {
     [Area("Management")]
+    [Authorize("Admin")]
 
     public class CategoryController : Controller
     {

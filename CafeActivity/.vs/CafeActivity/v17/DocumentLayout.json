@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D58AECD-2F70-4CB8-931B-3EC766031AC9}|CafeActivity\\CafeActivity.csproj|c:\\users\\emrullahkoc\\documents\\github\\cafeactivity\\cafeactivity\\cafeactivity\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D58AECD-2F70-4CB8-931B-3EC766031AC9}|CafeActivity\\CafeActivity.csproj|solutionrelative:cafeactivity\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D58AECD-2F70-4CB8-931B-3EC766031AC9}|CafeActivity\\CafeActivity.csproj|c:\\users\\emrullahkoc\\documents\\github\\cafeactivity\\cafeactivity\\cafeactivity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D58AECD-2F70-4CB8-931B-3EC766031AC9}|CafeActivity\\CafeActivity.csproj|solutionrelative:cafeactivity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\Controllers\\Account.cs",
+              "RelativeDocumentMoniker": "CafeActivity\\Controllers\\Account.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\Controllers\\Account.cs",
+              "RelativeToolTip": "CafeActivity\\Controllers\\Account.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T09:53:32.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CafeActivity\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Documents\\GitHub\\CafeActivity\\CafeActivity\\CafeActivity\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CafeActivity\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T09:52:48.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
